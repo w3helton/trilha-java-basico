@@ -1,3 +1,3 @@
 ## SOLUÇÂO
 ## Diagrama de Classes
-<img src="/img/iphone UML.png">
+![Diagrama](/img/iphone UML.png)
