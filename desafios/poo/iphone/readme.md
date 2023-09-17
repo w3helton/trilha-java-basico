@@ -1,3 +1,3 @@
 ## SOLUÇÂO
 ## Diagrama de Classes
-![Diagrama](/img/iphone UML.png)
+![Diagrama](desafios/poo/iphone/img/iphone UML.png)
